@@ -18,7 +18,7 @@ App has a resilient design and can be used via mobile.
 
 
 ## Online Demo
-https://example.com
+https://www.openaitodo.com
 
 
 ## Getting Started Locally
