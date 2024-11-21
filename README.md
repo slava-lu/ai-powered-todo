@@ -20,6 +20,8 @@ App has a resilient design and can be used via mobile.
 ## Online Demo
 https://www.openaitodo.com
 
+## Medium Article
+This [article](https://medium.com/javascript-in-plain-english/using-enterprise-react-stack-to-build-ai-powered-applications-in-2024-25-b89d1de4b985) explains the basic tech ideas behind this solution.
 
 ## Getting Started Locally
 
