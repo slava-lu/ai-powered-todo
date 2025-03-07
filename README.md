@@ -23,6 +23,11 @@ https://www.openaitodo.com
 ## Medium Article
 This [article](https://medium.com/javascript-in-plain-english/using-enterprise-react-stack-to-build-ai-powered-applications-in-2024-25-b89d1de4b985) explains the basic tech ideas behind this solution.
 
+## Deploy to Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fslava-lu%2Fai-powered-todo)
+
+
 ## Getting Started Locally
 
 - Install Postgres, create a Postgres database, add the database credentials in `.env` file.  Do not change the variable names.
